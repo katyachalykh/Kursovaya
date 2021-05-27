@@ -1,0 +1,15 @@
+"F:\Program Files\arm\bin\armproc.dll" 
+
+"F:\Program Files\arm\bin\armstlink2.dll" 
+
+"C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\Debug\Exe\iarproject.out" 
+
+--plugin="F:\Program Files\arm\bin\armbat.dll" 
+
+--device_macro="F:\Program Files\arm\config\debugger\ST\STM32F4xx.dmac" 
+
+--flash_loader="F:\Program Files\arm\config\flashloader\ST\FlashSTM32F411xE.board" 
+
+
+
+

@@ -1,0 +1,97 @@
+ButtonTask.pbi: \
+  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\AHardware\ColorSensorClasses\ButtonTask.cpp \
+  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\AHardware\ColorSensorClasses/ButtonTask.hpp \
+  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\AHardware\ColorSensorClasses/Ibutton.hpp \
+  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\wrapper\thread.hpp \
+  F:\Program\ Files\arm\inc\cpp\array \
+  F:\Program\ Files\arm\inc\cpp\algorithm \
+  F:\Program\ Files\arm\inc\cpp\xmemory \
+  F:\Program\ Files\arm\inc\cpp\xmemory0 \
+  F:\Program\ Files\arm\inc\cpp\cstdint \
+  F:\Program\ Files\arm\inc\c\stdint.h \
+  F:\Program\ Files\arm\inc\c\ycheck.h F:\Program\ Files\arm\inc\c\yvals.h \
+  F:\Program\ Files\arm\inc\c\DLib_Defaults.h \
+  F:\\Program\ Files\\arm\\inc\\c\\DLib_Config_Normal.h \
+  F:\Program\ Files\arm\inc\c\DLib_Product.h \
+  F:\Program\ Files\arm\inc\cpp\cstdlib \
+  F:\Program\ Files\arm\inc\c\stdlib.h \
+  F:\Program\ Files\arm\inc\c\ysizet.h \
+  F:\Program\ Files\arm\inc\c\DLib_Product_stdlib.h \
+  F:\Program\ Files\arm\inc\cpp\limits \
+  F:\Program\ Files\arm\inc\cpp\cfloat F:\Program\ Files\arm\inc\c\float.h \
+  F:\Program\ Files\arm\inc\cpp\climits \
+  F:\Program\ Files\arm\inc\c\limits.h F:\Program\ Files\arm\inc\cpp\cmath \
+  F:\Program\ Files\arm\inc\c\math.h \
+  F:\Program\ Files\arm\inc\c\DLib_float_setup.h \
+  F:\Program\ Files\arm\inc\c\xtgmath.h \
+  F:\Program\ Files\arm\inc\cpp\xtr1common \
+  F:\Program\ Files\arm\inc\cpp\cwchar F:\Program\ Files\arm\inc\c\wchar.h \
+  F:\Program\ Files\arm\inc\cpp\xstddef \
+  F:\Program\ Files\arm\inc\cpp\cstddef \
+  F:\Program\ Files\arm\inc\c\stddef.h \
+  F:\Program\ Files\arm\inc\cpp\initializer_list \
+  F:\Program\ Files\arm\inc\cpp\new \
+  F:\Program\ Files\arm\inc\cpp\exception \
+  F:\Program\ Files\arm\inc\cpp\xxexception \
+  F:\Program\ Files\arm\inc\cpp\type_traits \
+  F:\Program\ Files\arm\inc\cpp\xutility \
+  F:\Program\ Files\arm\inc\cpp\utility \
+  F:\Program\ Files\arm\inc\cpp\iosfwd \
+  F:\Program\ Files\arm\inc\cpp\cstdio F:\Program\ Files\arm\inc\c\stdio.h \
+  F:\Program\ Files\arm\inc\cpp\cstring \
+  F:\Program\ Files\arm\inc\c\string.h \
+  F:\Program\ Files\arm\inc\c\DLib_Product_string.h \
+  F:\Program\ Files\arm\inc\c\xatomic.h \
+  F:\Program\ Files\arm\inc\cpp\iterator \
+  F:\Program\ Files\arm\inc\cpp\istream \
+  F:\Program\ Files\arm\inc\cpp\ostream F:\Program\ Files\arm\inc\cpp\ios \
+  F:\Program\ Files\arm\inc\cpp\xlocnum \
+  F:\Program\ Files\arm\inc\cpp\streambuf \
+  F:\Program\ Files\arm\inc\cpp\xiosbase \
+  F:\Program\ Files\arm\inc\cpp\xlocale \
+  F:\Program\ Files\arm\inc\cpp\clocale \
+  F:\Program\ Files\arm\inc\c\locale.h \
+  F:\Program\ Files\arm\inc\c\xctype.h \
+  F:\Program\ Files\arm\inc\c\xlocale_lconv.h \
+  F:\Program\ Files\arm\inc\cpp\cwctype \
+  F:\Program\ Files\arm\inc\c\wctype.h \
+  F:\Program\ Files\arm\inc\cpp\stdexcept \
+  F:\Program\ Files\arm\inc\cpp\xstring \
+  F:\Program\ Files\arm\inc\cpp\typeinfo \
+  F:\Program\ Files\arm\inc\cpp\xlocinfo \
+  F:\Program\ Files\arm\inc\cpp\cctype F:\Program\ Files\arm\inc\c\ctype.h \
+  F:\Program\ Files\arm\inc\cpp\ctime F:\Program\ Files\arm\inc\c\time.h \
+  F:\Program\ Files\arm\inc\c/time32.h \
+  F:\Program\ Files\arm\inc\cpp\system_error \
+  F:\Program\ Files\arm\inc\cpp\cerrno F:\Program\ Files\arm\inc\c\errno.h \
+  F:\Program\ Files\arm\inc\cpp\tuple \
+  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\wrapper\FreeRtos\rtosdefs.hpp \
+  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\include\FreeRtos.h \
+  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\include/..\FreeRTOSConfig.h \
+  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\include/projdefs.h \
+  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\include/portable.h \
+  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\include/deprecated_definitions.h \
+  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\portable\IAR\ARM_CM4F\portmacro.h \
+  F:\Program\ Files\arm\inc\c\intrinsics.h \
+  F:\Program\ Files\arm\inc\c\iccarm_builtin.h \
+  F:\Program\ Files\arm\inc\c\iar_intrinsics_common.h \
+  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\include/mpu_wrappers.h \
+  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\include\task.h \
+  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\include/list.h \
+  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\include\semphr.h \
+  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\include/queue.h \
+  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\include\queue.h \
+  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\include\timers.h \
+  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\include/task.h \
+  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\include\event_groups.h \
+  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\include/timers.h \
+  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Common\susudefs.hpp \
+  F:\Program\ Files\arm\inc\cpp\cassert \
+  F:\Program\ Files\arm\inc\c\assert.h \
+  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\FreeRTOSConfig.h \
+  F:\Program\ Files\arm\inc\cpp\chrono F:\Program\ Files\arm\inc\cpp\ratio \
+  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\wrapper\FreeRtos\rtoswrapper.hpp \
+  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\wrapper\FreeRtos/rtosdefs.hpp \
+  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\wrapper\eventmode.hpp \
+  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\wrapper\event.hpp \
+  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\wrapper/eventmode.hpp
