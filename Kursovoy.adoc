@@ -1,3 +1,6 @@
+image::https://github.com/katyachalykh/Kursovaya/blob/main/Pictures/video.gif[]
+
+
 == _Пояснительная записка к курсовому проекту_
 
 ==== Дисциплина: _программное обеспечение измерительных процессов._
