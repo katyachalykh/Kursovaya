@@ -1,14 +1,14 @@
-"F:\Program Files\arm\bin\armproc.dll" 
+"D:\Проги для учебы\arm\bin\armproc.dll" 
 
-"F:\Program Files\arm\bin\armstlink2.dll" 
+"D:\Проги для учебы\arm\bin\armstlink2.dll" 
 
-"C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\Debug\Exe\iarproject.out" 
+"D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\Debug\Exe\iarproject.out" 
 
---plugin="F:\Program Files\arm\bin\armbat.dll" 
+--plugin="D:\Проги для учебы\arm\bin\armbat.dll" 
 
---device_macro="F:\Program Files\arm\config\debugger\ST\STM32F4xx.dmac" 
+--device_macro="D:\Проги для учебы\arm\config\debugger\ST\STM32F4xx.dmac" 
 
---flash_loader="F:\Program Files\arm\config\flashloader\ST\FlashSTM32F411xE.board" 
+--flash_loader="D:\Проги для учебы\arm\config\flashloader\ST\FlashSTM32F411xE.board" 
 
 
 

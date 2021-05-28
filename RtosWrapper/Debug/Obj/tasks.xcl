@@ -1,150 +1,150 @@
-"C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\tasks.c"
+"D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\Rtos\FreeRtos\tasks.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -MD
 -MF
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\Debug\Obj\tasks.pbi.dep
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\Debug\Obj\tasks.pbi.dep
 -o
 tasks.pbi
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\Rtos\FreeRtos
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\Rtos
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\Rtos
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\Rtos\wrapper
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\Rtos\wrapper
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\Rtos\wrapper\FreeRtos
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\Rtos\wrapper\FreeRtos
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\Rtos\FreeRtos
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\include
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\Rtos\FreeRtos\include
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\portable
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\Rtos\FreeRtos\portable
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\portable\Common
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\Rtos\FreeRtos\portable\Common
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\portable\IAR
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\Rtos\FreeRtos\portable\IAR
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\portable\IAR\ARM_CM4F
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\Rtos\FreeRtos\portable\IAR\ARM_CM4F
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\portable\MemMang
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\Rtos\FreeRtos\portable\MemMang
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\MyTasks
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\MyTasks
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\Common
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\Common
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\CMSIS
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\CMSIS
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\Application
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\Application
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\Application\Diagnostic
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\Application\Diagnostic
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\AHardware
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\AHardware
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\AHardware\GpioPort
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\AHardware\GpioPort
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\AHardware\IrqController
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\AHardware\IrqController
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\..\CortexLib\AbstractHardware\Pin
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\..\CortexLib\AbstractHardware\Pin
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\AHardware\STM32F411\FieldValues
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\AHardware\STM32F411\FieldValues
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\AHardware\STM32F411
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\AHardware\STM32F411
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\..\CortexLib\AbstractHardware\Registers
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\..\CortexLib\AbstractHardware\Registers
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\..\CortexLib\AbstractHardware\Port
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\..\CortexLib\AbstractHardware\Port
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\..\CortexLib\AbstractHardware\Atomic
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\..\CortexLib\AbstractHardware\Atomic
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\..\CortexLib\Common
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\..\CortexLib\Common
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\..\CortexLib\Common\Singleton
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\..\CortexLib\Common\Singleton
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\..\CortexLib\Common\RomObject
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\..\CortexLib\Common\RomObject
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\AHardware\STM32F411\FieldValues
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\AHardware\STM32F411\FieldValues
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\AHardware\CortexM4
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\AHardware\CortexM4
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\AHardware\CortexM4
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\AHardware\CortexM4
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\AHardware\STM32F411
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\AHardware\STM32F411
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\AHardware\ColorSensorClasses
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\AHardware\ColorSensorClasses
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\AHardware\CortexM4\FieldValues
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\AHardware\CortexM4\FieldValues
 -I
-F:\Program Files\arm\inc
+D:\Проги для учебы\arm\inc
 -I
-F:\Program Files\arm\inc\c
+D:\Проги для учебы\arm\inc\c
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\Rtos
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\Rtos
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\Rtos\wrapper
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\Rtos\wrapper
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\Rtos\wrapper\FreeRtos
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\Rtos\wrapper\FreeRtos
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\Rtos\FreeRtos
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\include
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\Rtos\FreeRtos\include
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\portable
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\Rtos\FreeRtos\portable
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\portable\Common
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\Rtos\FreeRtos\portable\Common
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\portable\IAR
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\Rtos\FreeRtos\portable\IAR
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\portable\IAR\ARM_CM4F
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\Rtos\FreeRtos\portable\IAR\ARM_CM4F
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\portable\MemMang
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\Rtos\FreeRtos\portable\MemMang
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\MyTasks
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\MyTasks
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\Common
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\Common
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\CMSIS
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\CMSIS
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\Application
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\Application
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\Application\Diagnostic
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\Application\Diagnostic
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\AHardware
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\AHardware
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\AHardware\GpioPort
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\AHardware\GpioPort
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\AHardware\IrqController
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\AHardware\IrqController
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\CortexLib\AbstractHardware\Pin
+D:\Cpecialno dlyf IAR\Kursach_Gotov\CortexLib\AbstractHardware\Pin
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\AHardware\STM32F411\FieldValues
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\AHardware\STM32F411\FieldValues
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\AHardware\STM32F411
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\AHardware\STM32F411
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\CortexLib\AbstractHardware\Registers
+D:\Cpecialno dlyf IAR\Kursach_Gotov\CortexLib\AbstractHardware\Registers
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\CortexLib\AbstractHardware\Port
+D:\Cpecialno dlyf IAR\Kursach_Gotov\CortexLib\AbstractHardware\Port
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\CortexLib\AbstractHardware\Atomic
+D:\Cpecialno dlyf IAR\Kursach_Gotov\CortexLib\AbstractHardware\Atomic
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\CortexLib\Common
+D:\Cpecialno dlyf IAR\Kursach_Gotov\CortexLib\Common
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\CortexLib\Common\Singleton
+D:\Cpecialno dlyf IAR\Kursach_Gotov\CortexLib\Common\Singleton
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\CortexLib\Common\RomObject
+D:\Cpecialno dlyf IAR\Kursach_Gotov\CortexLib\Common\RomObject
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\AHardware\STM32F411\FieldValues
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\AHardware\STM32F411\FieldValues
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\AHardware\CortexM4
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\AHardware\CortexM4
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\AHardware\CortexM4
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\AHardware\CortexM4
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\AHardware\STM32F411
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\AHardware\STM32F411
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\AHardware\ColorSensorClasses
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\AHardware\ColorSensorClasses
 -I
-C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\AHardware\CortexM4\FieldValues
+D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\AHardware\CortexM4\FieldValues
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff
 -D__CHAR_MIN__=0
@@ -436,8 +436,8 @@ C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\A
 -D__EDG_FLOAT80_ENABLING_POSSIBLE=0
 -D__EDG_FLOAT128_ENABLING_POSSIBLE=0
 -D__EDG_INT128_EXTENSIONS_ALLOWED=0
--D_DLIB_CONFIG_FILE_HEADER_NAME="F:\\Program Files\\arm\\inc\\c\\DLib_Config_Normal.h"
--D_DLIB_CONFIG_FILE_STRING="F:\\Program Files\\arm\\inc\\c\\DLib_Config_Normal.h"
+-D_DLIB_CONFIG_FILE_HEADER_NAME="D:\\@@@@@ @@@ @@@@@\\arm\\inc\\c\\DLib_Config_Normal.h"
+-D_DLIB_CONFIG_FILE_STRING="D:\\@@@@@ @@@ @@@@@\\arm\\inc\\c\\DLib_Config_Normal.h"
 -D__VERSION__="IAR ANSI C/C++ Compiler V8.40.2.214/W32 for ARM"
 -D_VA_DEFINED=
 -D_VA_LIST=struct __va_list

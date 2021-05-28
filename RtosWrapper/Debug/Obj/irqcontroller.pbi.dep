@@ -1,95 +1,15 @@
 irqcontroller.pbi: \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\AHardware\IrqController\irqcontroller.cpp \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\AHardware\IrqController/irqcontroller.hpp \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\AHardware\ColorSensorClasses\Timer2.h \
-  F:\Program\ Files\arm\inc\cpp\iostream \
-  F:\Program\ Files\arm\inc\cpp\istream \
-  F:\Program\ Files\arm\inc\cpp\ostream F:\Program\ Files\arm\inc\cpp\ios \
-  F:\Program\ Files\arm\inc\cpp\xlocnum \
-  F:\Program\ Files\arm\inc\cpp\climits \
-  F:\Program\ Files\arm\inc\c\limits.h \
-  F:\Program\ Files\arm\inc\c\ycheck.h F:\Program\ Files\arm\inc\c\yvals.h \
-  F:\Program\ Files\arm\inc\c\DLib_Defaults.h \
-  F:\\Program\ Files\\arm\\inc\\c\\DLib_Config_Normal.h \
-  F:\Program\ Files\arm\inc\c\DLib_Product.h \
-  F:\Program\ Files\arm\inc\cpp\cmath F:\Program\ Files\arm\inc\c\math.h \
-  F:\Program\ Files\arm\inc\c\DLib_float_setup.h \
-  F:\Program\ Files\arm\inc\c\xtgmath.h \
-  F:\Program\ Files\arm\inc\cpp\xtr1common \
-  F:\Program\ Files\arm\inc\cpp\cstdlib \
-  F:\Program\ Files\arm\inc\c\stdlib.h \
-  F:\Program\ Files\arm\inc\c\ysizet.h \
-  F:\Program\ Files\arm\inc\c\DLib_Product_stdlib.h \
-  F:\Program\ Files\arm\inc\cpp\streambuf \
-  F:\Program\ Files\arm\inc\cpp\xiosbase \
-  F:\Program\ Files\arm\inc\cpp\xlocale \
-  F:\Program\ Files\arm\inc\cpp\cstring \
-  F:\Program\ Files\arm\inc\c\string.h \
-  F:\Program\ Files\arm\inc\c\DLib_Product_string.h \
-  F:\Program\ Files\arm\inc\cpp\clocale \
-  F:\Program\ Files\arm\inc\c\locale.h \
-  F:\Program\ Files\arm\inc\c\xctype.h \
-  F:\Program\ Files\arm\inc\c\xlocale_lconv.h \
-  F:\Program\ Files\arm\inc\cpp\cwctype \
-  F:\Program\ Files\arm\inc\c\wctype.h \
-  F:\Program\ Files\arm\inc\cpp\stdexcept \
-  F:\Program\ Files\arm\inc\cpp\exception \
-  F:\Program\ Files\arm\inc\cpp\xstddef \
-  F:\Program\ Files\arm\inc\cpp\cstddef \
-  F:\Program\ Files\arm\inc\c\stddef.h \
-  F:\Program\ Files\arm\inc\cpp\initializer_list \
-  F:\Program\ Files\arm\inc\cpp\xxexception \
-  F:\Program\ Files\arm\inc\cpp\type_traits \
-  F:\Program\ Files\arm\inc\cpp\xstring \
-  F:\Program\ Files\arm\inc\cpp\xmemory0 \
-  F:\Program\ Files\arm\inc\cpp\cstdint \
-  F:\Program\ Files\arm\inc\c\stdint.h \
-  F:\Program\ Files\arm\inc\cpp\limits \
-  F:\Program\ Files\arm\inc\cpp\cfloat F:\Program\ Files\arm\inc\c\float.h \
-  F:\Program\ Files\arm\inc\cpp\cwchar F:\Program\ Files\arm\inc\c\wchar.h \
-  F:\Program\ Files\arm\inc\cpp\new F:\Program\ Files\arm\inc\cpp\xutility \
-  F:\Program\ Files\arm\inc\cpp\utility \
-  F:\Program\ Files\arm\inc\cpp\iosfwd \
-  F:\Program\ Files\arm\inc\cpp\cstdio F:\Program\ Files\arm\inc\c\stdio.h \
-  F:\Program\ Files\arm\inc\c\xatomic.h \
-  F:\Program\ Files\arm\inc\cpp\typeinfo \
-  F:\Program\ Files\arm\inc\cpp\xlocinfo \
-  F:\Program\ Files\arm\inc\cpp\cctype F:\Program\ Files\arm\inc\c\ctype.h \
-  F:\Program\ Files\arm\inc\cpp\ctime F:\Program\ Files\arm\inc\c\time.h \
-  F:\Program\ Files\arm\inc\c/time32.h \
-  F:\Program\ Files\arm\inc\cpp\system_error \
-  F:\Program\ Files\arm\inc\cpp\cerrno F:\Program\ Files\arm\inc\c\errno.h \
-  F:\Program\ Files\arm\inc\cpp\array \
-  F:\Program\ Files\arm\inc\cpp\algorithm \
-  F:\Program\ Files\arm\inc\cpp\xmemory \
-  F:\Program\ Files\arm\inc\cpp\iterator \
-  F:\Program\ Files\arm\inc\cpp\tuple \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\AHardware\STM32F411\tim2registers.hpp \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\AHardware\STM32F411\FieldValues\tim2fieldvalues.hpp \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\AHardware\fieldvalue.hpp \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\AHardware/fieldvaluebase.hpp \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\AHardware/accessmode.hpp \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Common\susudefs.hpp \
-  F:\Program\ Files\arm\inc\cpp\cassert \
-  F:\Program\ Files\arm\inc\c\assert.h \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\AHardware/registerfield.hpp \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\AHardware\registerbase.hpp \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\AHardware/registertype.hpp \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\AHardware\register.hpp \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\AHardware/fieldvalue.hpp \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\AHardware\accessmode.hpp \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\AHardware\ColorSensorClasses/IColorChannel.h \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\AHardware\ColorSensorClasses/Pin.h \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\AHardware\STM32F411\gpioaregisters.hpp \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\AHardware\STM32F411\FieldValues\gpioafieldvalues.hpp \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\AHardware\STM32F411\gpiocregisters.hpp \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\AHardware\STM32F411\FieldValues\gpiocfieldvalues.hpp \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\AHardware\CortexM4\nvicregisters.hpp \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\AHardware\CortexM4\FieldValues\nvicfieldvalues.hpp \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\AHardware\STM32F411\rccregisters.hpp \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\AHardware\STM32F411\FieldValues\rccfieldvalues.hpp \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\AHardware\ColorSensorClasses\usartconfig.h \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\AHardware\ColorSensorClasses/usart.h \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\AHardware\STM32F411\usart2registers.hpp \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\AHardware\STM32F411\FieldValues\usart2fieldvalues.hpp \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\AHardware\ColorSensorClasses/USARTDriver.h
+  D:\Cpecialno\ dlyf\ IAR\Kursach_Gotov\RtosWrapper\AHardware\IrqController\irqcontroller.cpp \
+  D:\Cpecialno\ dlyf\ IAR\Kursach_Gotov\RtosWrapper\AHardware\IrqController/irqcontroller.hpp \
+  D:\Cpecialno\ dlyf\ IAR\Kursach_Gotov\RtosWrapper\AHardware\ColorSensorClasses\Timer2.h \
+  D:\Проги\ для\ учебы\arm\inc\cpp\iostream \
+  D:\Проги\ для\ учебы\arm\inc\cpp\istream \
+  D:\Проги\ для\ учебы\arm\inc\cpp\ostream \
+  D:\Проги\ для\ учебы\arm\inc\cpp\ios \
+  D:\Проги\ для\ учебы\arm\inc\cpp\xlocnum \
+  D:\Проги\ для\ учебы\arm\inc\cpp\climits \
+  D:\Проги\ для\ учебы\arm\inc\c\limits.h \
+  D:\Проги\ для\ учебы\arm\inc\c\ycheck.h \
+  D:\Проги\ для\ учебы\arm\inc\c\yvals.h \
+  D:\Проги\ для\ учебы\arm\inc\c\DLib_Defaults.h \
+  D:\Проги\ для\ учебы\arm\inc\c\DLib_Product.h

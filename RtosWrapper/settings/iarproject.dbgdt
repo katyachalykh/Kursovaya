@@ -983,7 +983,7 @@
                     <item>redFreq</item>
                     <item>RedObject</item>
                     <item>count</item>
-                    <item />
+                    <item></item>
                 </expressions>
                 <col-names>
                     <item>Expression</item>

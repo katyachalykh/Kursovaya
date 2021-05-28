@@ -25,7 +25,7 @@ if not "%~1" == "" goto debugFile
 
 @echo on 
 
-"F:\Program Files\common\bin\cspybat" -f "C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\settings\iarproject.Debug.general.xcl" --backend -f "C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\settings\iarproject.Debug.driver.xcl" 
+"D:\Проги для учебы\common\bin\cspybat" -f "D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\settings\iarproject.Debug.general.xcl" --backend -f "D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\settings\iarproject.Debug.driver.xcl" 
 
 @echo off 
 goto end 
@@ -34,7 +34,7 @@ goto end
 
 @echo on 
 
-"F:\Program Files\common\bin\cspybat" -f "C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\settings\iarproject.Debug.general.xcl" "--debug_file=%~1" --backend -f "C:\Users\mircc\OneDrive\Рабочий стол\Kursach_Gotov-main\RtosWrapper\settings\iarproject.Debug.driver.xcl" 
+"D:\Проги для учебы\common\bin\cspybat" -f "D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\settings\iarproject.Debug.general.xcl" "--debug_file=%~1" --backend -f "D:\Cpecialno dlyf IAR\Kursach_Gotov\RtosWrapper\settings\iarproject.Debug.driver.xcl" 
 
 @echo off 
 :end

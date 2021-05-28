@@ -1,26 +1,7 @@
 timers.pbi: \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\timers.c \
-  F:\Program\ Files\arm\inc\c\stdlib.h \
-  F:\Program\ Files\arm\inc\c\ycheck.h F:\Program\ Files\arm\inc\c\yvals.h \
-  F:\Program\ Files\arm\inc\c\DLib_Defaults.h \
-  F:\\Program\ Files\\arm\\inc\\c\\DLib_Config_Normal.h \
-  F:\Program\ Files\arm\inc\c\DLib_Product.h \
-  F:\Program\ Files\arm\inc\c\ysizet.h \
-  F:\Program\ Files\arm\inc\c\DLib_Product_stdlib.h \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\include\FreeRTOS.h \
-  F:\Program\ Files\arm\inc\c\stddef.h \
-  F:\Program\ Files\arm\inc\c\stdint.h \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\include/..\FreeRTOSConfig.h \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\include/projdefs.h \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\include/portable.h \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\include/deprecated_definitions.h \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\portable\IAR\ARM_CM4F\portmacro.h \
-  F:\Program\ Files\arm\inc\c\intrinsics.h \
-  F:\Program\ Files\arm\inc\c\iccarm_builtin.h \
-  F:\Program\ Files\arm\inc\c\iar_intrinsics_common.h \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\include/mpu_wrappers.h \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\include\task.h \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\include/list.h \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\include\queue.h \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\include\timers.h \
-  C:\Users\mircc\OneDrive\Рабочий\ стол\Kursach_Gotov-main\RtosWrapper\Rtos\FreeRtos\include/task.h
+  D:\Cpecialno\ dlyf\ IAR\Kursach_Gotov\RtosWrapper\Rtos\FreeRtos\timers.c \
+  D:\Проги\ для\ учебы\arm\inc\c\stdlib.h \
+  D:\Проги\ для\ учебы\arm\inc\c\ycheck.h \
+  D:\Проги\ для\ учебы\arm\inc\c\yvals.h \
+  D:\Проги\ для\ учебы\arm\inc\c\DLib_Defaults.h \
+  D:\Проги\ для\ учебы\arm\inc\c\DLib_Product.h
